@@ -10,6 +10,8 @@ Datavisualisation file;
 reference:
   https://www.youtube.com/watch?v=lZvs-YNk4V0&list=PLaddutuCoakoYOF5Zi6CyPiDTyFl3CMhG&index=25
   
- DataProcession file
+Reprocessing Data file;
  references:
+  #Reference 1 : https://www.youtube.com/watch?v=ZOX18HfLHGQ&t=213s
+  #Reference 2 : https://www.kaggle.com/coni57/customer-segmentation
   
